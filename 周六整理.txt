@@ -1,0 +1,22 @@
+数据传输方式  http://wenku.baidu.com/link?url=W_nSCwl-NEM5z-L8I2jKJu9C4qCY4wRlxJnM_ZnMYHu_tBZsUjV3pP8makT1hKNRTj_ccVprNvhw40bGNKdE4cVp5ir5YdwDmQ5w3FbTG8a
+
+1、socket方式 2、ftp/文件共享服务器方式  3、数据库共享数据方式  4、message方式
+
+
+数据格式  数据格式（data format）是数据保存在文件或记录中的编排格式。可为数值、字符或二进制数等形式。由数据类型及数据长度来描述。
+
+http://baike.baidu.com/link?url=c0fQW3xz1X9E5_LLLMhRYQ6ZTaVITcmLVSAQJmljyacol4KTh2RgJA9cKOrFSB0h-Pbow0a969WiAEo6rl7i0OlLEXPF8Afh30dLMTadNQh5JgbhaRNwRHp6JGNmcaE-
+
+传输协议  1、http  2、FILE  3、FTP  4、TELNET  5、GOPHER  6、WAIS  7、MAILTO  8、NEWS
+9、TCP  10、UDP
+
+http://zhidao.baidu.com/link?url=Byz7_CON7qwOttCWjFIxzPLoCaM9F0-VS2_GJDzPp8RRdiKLueOR6zzuEv-vvoPnUgTrzq1lBb85Ql0vL8CRxq
+ 网络请求  http://blog.csdn.net/ruingman/article/details/51512670
+
+同步、异步的区别  http://blog.csdn.net/jenturn/article/details/52024769
+
+
+httpclient   http://blog.csdn.net/wangpeng047/article/details/19624529
+
+Eclipse与Studio的区别
+http://zhidao.baidu.com/link?url=Af5RojIs8bTxuunmaGxGZ0HTeaHmFoTAxo5xPkUGlqfgnJlcJm7_qF69fpHwQLDDbECdC1GIsPFbqsNH6KNCnJ9DM6hauHLBtYM7UtrleQi
